@@ -1,0 +1,73 @@
+@options
+@packages
+-classpath
+'C:/Users/dell/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/dell/.m2/repository/org/hibernate/hibernate-core/5.5.4.Final/hibernate-core-5.5.4.Final.jar;C:/Users/dell/.m2/repository/org/jboss/logging/jboss-logging/3.4.2.Final/jboss-logging-3.4.2.Final.jar;C:/Users/dell/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar;C:/Users/dell/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar;C:/Users/dell/.m2/repository/net/bytebuddy/byte-buddy/1.11.8/byte-buddy-1.11.8.jar;C:/Users/dell/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar;C:/Users/dell/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar;C:/Users/dell/.m2/repository/org/jboss/jandex/2.2.3.Final/jandex-2.2.3.Final.jar;C:/Users/dell/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar;C:/Users/dell/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar;C:/Users/dell/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar;C:/Users/dell/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar;C:/Users/dell/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar;C:/Users/dell/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar;C:/Users/dell/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar;C:/Users/dell/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar;C:/Users/dell/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar;C:/Users/dell/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar;C:/Users/dell/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/dell/Documents/NetBeansProjects/myCart/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/dell/Documents/NetBeansProjects/myCart/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'myCart-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/dell/Documents/NetBeansProjects/myCart/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'myCart-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.learn.mycart.dao
+com.learn.mycart.entities
+com.learn.mycart.helper
+com.learn.mycart
+com.learn.mycart.resources
+com.learn.mycart.servlets
+C:\Users\dell\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1702019957394
+C:\Users\dell\.m2\repository\org\hibernate\hibernate-core\5.5.4.Final\hibernate-core-5.5.4.Final.jar = 1701014205353
+C:\Users\dell\.m2\repository\org\jboss\logging\jboss-logging\3.4.2.Final\jboss-logging-3.4.2.Final.jar = 1701014203294
+C:\Users\dell\.m2\repository\javax\persistence\javax.persistence-api\2.2\javax.persistence-api-2.2.jar = 1701014203368
+C:\Users\dell\.m2\repository\org\javassist\javassist\3.27.0-GA\javassist-3.27.0-GA.jar = 1701014203682
+C:\Users\dell\.m2\repository\net\bytebuddy\byte-buddy\1.11.8\byte-buddy-1.11.8.jar = 1701014204516
+C:\Users\dell\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar = 1701013446211
+C:\Users\dell\.m2\repository\org\jboss\spec\javax\transaction\jboss-transaction-api_1.2_spec\1.1.1.Final\jboss-transaction-api_1.2_spec-1.1.1.Final.jar = 1701014203551
+C:\Users\dell\.m2\repository\org\jboss\jandex\2.2.3.Final\jandex-2.2.3.Final.jar = 1701014203738
+C:\Users\dell\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar = 1701014204161
+C:\Users\dell\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar = 1701014204177
+C:\Users\dell\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.1.2.Final\hibernate-commons-annotations-5.1.2.Final.jar = 1701014204625
+C:\Users\dell\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar = 1701014204677
+C:\Users\dell\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.1\jaxb-runtime-2.3.1.jar = 1701014205427
+C:\Users\dell\.m2\repository\org\glassfish\jaxb\txw2\2.3.1\txw2-2.3.1.jar = 1701014205167
+C:\Users\dell\.m2\repository\com\sun\istack\istack-commons-runtime\3.0.7\istack-commons-runtime-3.0.7.jar = 1701014205166
+C:\Users\dell\.m2\repository\org\jvnet\staxex\stax-ex\1.8\stax-ex-1.8.jar = 1701014205210
+C:\Users\dell\.m2\repository\com\sun\xml\fastinfoset\FastInfoset\1.2.15\FastInfoset-1.2.15.jar = 1701014205491
+C:\Users\dell\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar = 1701014398449
+C:\Users\dell\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar = 1701014398306
+C:\Users\dell\Documents\NetBeansProjects\myCart\src\main\java = 1702188281158
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\allclasses-index.html = 1723486204041
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\allpackages-index.html = 1723486204057
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\element-list = 1723486202920
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\help-doc.html = 1723486204248
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\index-all.html = 1723486204228
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\index.html = 1723486203922
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\jquery-ui.overrides.css = 1723486204821
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\member-search-index.js = 1723486204129
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\module-search-index.js = 1723486204082
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\overview-summary.html = 1723486204235
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\overview-tree.html = 1723486203910
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\package-search-index.js = 1723486204085
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\script.js = 1723486204418
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\search.js = 1723486204442
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\serialized-form.html = 1723486203309
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\stylesheet.css = 1723486204312
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\tag-search-index.js = 1723486204131
+C:\Users\dell\Documents\NetBeansProjects\myCart\target\apidocs\type-search-index.js = 1723486204108
